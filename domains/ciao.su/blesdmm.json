@@ -1,1 +1,17 @@
-  
+{
+  "description": "BLESDMM",
+  "owner": {
+    "name": "BLESDMM",
+    "github": "BLESDMM",
+    "email": "blesdmm@foxmail.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "188.215.31.134",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
